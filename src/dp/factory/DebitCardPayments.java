@@ -1,4 +1,4 @@
-package DP.factory;
+package dp.factory;
 
 public class DebitCardPayments implements Payments{
     @Override
